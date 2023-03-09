@@ -2,7 +2,7 @@
 
 ***********
 
-![My photo](photo.jpeg "My photo")
+![My photo](images/photo.jpeg "My photo")
 
 ***********
 
