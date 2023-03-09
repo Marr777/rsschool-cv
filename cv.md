@@ -7,11 +7,11 @@
 ***********
 
 ## Contacts:
-* Phone: +79118220990
-* Discord: Mary (@Marr777)
-* E-mail: marklukanova@gmail.com
 * [GitHub](https://github.com/Marr777)
-* Telegram: @marrr777
+* **Phone:** +79118220990
+* **Discord:** Mary (@Marr777)
+* **E-mail:** marklukanova@gmail.com
+* **Telegram:** @marrr777
 
 *********
 
@@ -54,21 +54,16 @@ function duplicateEncode(word){
 
 I've made several projects during my cources at the HTML Academy, plus I've been working on a simple pet project for my Telegram channel.
 
-### Mishka: a study project:
-* https://marr777.github.io/2205359-mishka-27/
+### [Mishka: a study project:](https://marr777.github.io/2205359-mishka-27/)
 * [GitHub repository](https://github.com/Marr777/2205359-mishka-27)
 
-**Used technologies:**
-* HTML + Less
-* Responsive layout
-* Automation using Gulp and WebPack
-* JacaScript
+* **Used technologies:**
+    * HTML + Less
+    * Responsive layout
+    * Automation using Gulp and WebPack
+    * JavaScript
 
 ******
-
-## Education:
-* Saint Petersburg State University (2019)
-    * Art History
 
 ## Courses:
 * HTML Academy: HTML & CSS: Professional Website Coding (2022)
@@ -80,3 +75,5 @@ I've made several projects during my cources at the HTML Academy, plus I've been
 ## Languages:
 * Russian(native)
 * English(B2)
+
+*****
