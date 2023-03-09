@@ -2,7 +2,7 @@
 
 ***********
 
-![My photo](images/017c91cb-3d68-4109-b2fe-cdff6fdda522.jpeg "My photo")
+![My photo](photo.jpeg "My photo")
 
 ***********
 
