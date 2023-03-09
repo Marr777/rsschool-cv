@@ -34,7 +34,7 @@ In September 2022, I started learning HTML and CSS and became very interested in
 *************
 
 ## Code exaple:
-_Codewars: Duplicate Encoder, 6 kyu:_
+_[Codewars: Duplicate Encoder, 6 kyu](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)_
 
 ```
 function duplicateEncode(word){
@@ -62,7 +62,7 @@ I've made several projects during my cources at the HTML Academy, plus I've been
 * HTML + Less
 * Responsive layout
 * Automation using Gulp and WebPack
-* Simple JS
+* JacaScript
 
 ******
 
